@@ -1,0 +1,9 @@
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.selwi.looks",
+    "sha256_cert_fingerprints":
+    ["41:BE:A9:C3:FC:04:8F:00:01:59:A7:3B:DF:CB:27:7A:C2:CC:25:71:2C:63:2F:61:4D:56:E6:D7:BA:3C:87:CC"]
+  }
+}
