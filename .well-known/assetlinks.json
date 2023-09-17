@@ -1,9 +1,11 @@
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.selwi.looks",
-    "sha256_cert_fingerprints":
-    ["6A:68:7D:84:C4:EA:6D:2F:ED:C8:0B:E9:05:FA:27:57:ED:00:4F:F5:1A:41:B5:4D:EE:99:7E:A0:1C:75:3E:10"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.selwi.looks",
+      "sha256_cert_fingerprints":
+      ["6A:68:7D:84:C4:EA:6D:2F:ED:C8:0B:E9:05:FA:27:57:ED:00:4F:F5:1A:41:B5:4D:EE:99:7E:A0:1C:75:3E:10"]
+    }
   }
-}
+]
